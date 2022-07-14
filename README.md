@@ -19,15 +19,6 @@
   <a href="https://github.com/NguyenPhatBG/"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphatbg&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=faf9f5&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-  
-<a href="https://github.com/NguyenPhatBG"><img alt="NguyenPhatBG's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nguyenphatbg&bg_color=1F222E&color=faf9f5&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  </details>
-
-<br/>
-
 ## Expertise
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/flutter-%23D61C4E.svg?style=for-the-badge&logo=flutter&logoColor=%23ffffff" />
 <img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
